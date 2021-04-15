@@ -15,6 +15,7 @@
 		7542FA6A26275E09009E59AA /* UserListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7542FA6926275E09009E59AA /* UserListViewController.swift */; };
 		7542FA6E26276ADA009E59AA /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7542FA6D26276ADA009E59AA /* Person.swift */; };
 		7542FA71262774E7009E59AA /* PersonDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7542FA70262774E7009E59AA /* PersonDetailViewController.swift */; };
+		7542FA7D2627F719009E59AA /* DetailListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7542FA7C2627F719009E59AA /* DetailListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		7542FA6926275E09009E59AA /* UserListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserListViewController.swift; sourceTree = "<group>"; };
 		7542FA6D26276ADA009E59AA /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		7542FA70262774E7009E59AA /* PersonDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonDetailViewController.swift; sourceTree = "<group>"; };
+		7542FA7C2627F719009E59AA /* DetailListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				7542FA5326275CDA009E59AA /* AppDelegate.swift */,
 				7542FA5526275CDA009E59AA /* SceneDelegate.swift */,
 				7542FA5926275CDA009E59AA /* Main.storyboard */,
+				7542FA7C2627F719009E59AA /* DetailListViewController.swift */,
 				7542FA5C26275CDB009E59AA /* Assets.xcassets */,
 				7542FA5E26275CDB009E59AA /* LaunchScreen.storyboard */,
 				7542FA6126275CDB009E59AA /* Info.plist */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7542FA5426275CDA009E59AA /* AppDelegate.swift in Sources */,
+				7542FA7D2627F719009E59AA /* DetailListViewController.swift in Sources */,
 				7542FA5626275CDA009E59AA /* SceneDelegate.swift in Sources */,
 				7542FA6E26276ADA009E59AA /* Person.swift in Sources */,
 				7542FA71262774E7009E59AA /* PersonDetailViewController.swift in Sources */,
